@@ -1,7 +1,7 @@
 require 'sinatra'
-require 'docx'
-require 'date'
-require 'mail'
+#require 'docx'
+#require 'date'
+#require 'mail'
 
 get '/' do
   erb :index

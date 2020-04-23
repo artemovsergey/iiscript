@@ -1,2 +1,2 @@
-require './prep'
+require './iiscript'
 run Sinatra::Application
